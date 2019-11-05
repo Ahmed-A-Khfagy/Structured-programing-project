@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(114,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(286,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(286,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(300,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(300,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(371,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(380,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1556,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1564,33): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1564,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1570,33): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1570,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1679,25): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Source.cpp(1855,25): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Candy Crush Game (FCIS project).vcxproj -> C:\Users\Aladin Khafagy\source\repos\Candy Crush Game (FCIS project)\Debug\Candy Crush Game (FCIS project).exe
